@@ -3,7 +3,7 @@ Power BI is a business analytics tool by Microsoft that enables users to visuali
 This repository contains Power BI files and related resources for Report Packaging Data service.
 
 # Overview
-Under extended producer responsibility (EPR) for packaging., organisations that supply packaging may need to report their packaging data.
+Under extended producer responsibility (EPR) for packaging, organisations that supply packaging may need to report their packaging data.
 
 #Prerequisites
 Power BI Desktop
@@ -12,7 +12,7 @@ Power BI Desktop
 Release: ** This directory contains the Power BI report files (.pbix) for the project.
 
 #How to Use
-1.	Clone the repository: `git clone <Repo URL>`
+1.	Clone the repository: `git clone <Repo URL>`.
 2. Navigate to the directory and click on (.pbix) file.
 3. File will open in power bi desktop to view.
 
@@ -22,12 +22,12 @@ Release: ** This directory contains the Power BI report files (.pbix) for the pr
 - Download the latest build.
 - Double-click on the Power BI (.pbix) file to open it in Power BI Desktop.
 - Familiarize yourself with the different sections of Power BI Desktop, including the Fields pane, Visualization pane, Pages tab, and the Report view.
-- You can download sample data files from link to manipulate the content of report.
+- You can download sample data files from [link](https://www.gov.uk/government/publications/packaging-data-how-to-create-your-file-for-extended-producer-responsibility/packaging-data-file-specification-for-extended-producer-responsibility/) to manipulate the content of report.
 - Submit bugs and feature requests, and help us verify as they are checked in.
 - Review source code changes and make pull requests for anything from typos to additional and new content.
 
 # Licence
-[Licence information](LICENCE.md).
+[Licence information](LICENCE.md)
 
 
 
