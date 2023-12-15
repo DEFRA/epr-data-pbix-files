@@ -1,18 +1,34 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# Introduction
+Power BI is a business analytics tool by Microsoft that enables users to visualize and analyze data from various sources, creating interactive reports and dashboards for informed decision-making.
+This repository contains Power BI files and related resources for Report Packaging Data service.
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+# Overview
+Under extended producer responsibility (EPR) for packaging., organisations that supply packaging may need to report their packaging data.
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+#Prerequisites
+Power BI Desktop
 
-# Contributing to this project
-Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.
+#Contents
+Release: ** This directory contains the Power BI report files (.pbix) for the project.
+
+#How to Use
+1.	Clone the repository: `git clone <Repo URL>`
+2. Navigate to the directory and click on (.pbix) file.
+3. File will open in power bi desktop to view.
+
+# Contributing
+- Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.
+- Manipulating a Power BI report involves interacting with the report, modifying visualizations, and analysing data. 
+- Download the latest build.
+- Double-click on the Power BI (.pbix) file to open it in Power BI Desktop.
+- Familiarize yourself with the different sections of Power BI Desktop, including the Fields pane, Visualization pane, Pages tab, and the Report view.
+- You can download sample data files from link to manipulate the content of report.
+- Submit bugs and feature requests, and help us verify as they are checked in.
+- Review source code changes and make pull requests for anything from typos to additional and new content.
 
 # Licence
 [Licence information](LICENCE.md).
+
+
+
+
