@@ -18,7 +18,8 @@ Release: ** This directory contains the Power BI report files (.pbix) for the pr
 
 # Contributing
 - Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.
-- Manipulating a Power BI report involves interacting with the report, modifying visualizations, and analysing data. 
+- A pull request needs to be created to merged changes into current release branch in order to start the review process, upon successfull acceptance of changes this will need to be merged to main branch.
+- Manipulating a Power BI report involves interacting with the report, modifying visualizations, and analysing data.
 - Download the latest build.
 - Double-click on the Power BI (.pbix) file to open it in Power BI Desktop.
 - Familiarize yourself with the different sections of Power BI Desktop, including the Fields pane, Visualization pane, Pages tab, and the Report view.
